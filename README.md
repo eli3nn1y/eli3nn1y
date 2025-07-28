@@ -1,4 +1,6 @@
 ## Hi there 👋
+<p> Hi! My name is Elianny Roman, I'm 15 years old, and a rising junior in High School. I strive to go to college and study to be an aspring programmer and architecter as a career choice. </p>
+
 
 <!--
 **eli3nn1y/eli3nn1y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
